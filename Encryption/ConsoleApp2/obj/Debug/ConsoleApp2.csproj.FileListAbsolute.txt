@@ -1,0 +1,25 @@
+D:\Учеба\РПС\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+D:\Учеба\РПС\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Учеба\РПС\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Учеба\РПС\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Учеба\РПС\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Учеба\РПС\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Учеба\РПС\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\miken\Downloads\DOWN\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\miken\Downloads\DOWN\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\miken\Downloads\DOWN\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\miken\Downloads\DOWN\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\miken\Downloads\DOWN\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\miken\Downloads\DOWN\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\miken\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\miken\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\miken\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\miken\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\miken\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
