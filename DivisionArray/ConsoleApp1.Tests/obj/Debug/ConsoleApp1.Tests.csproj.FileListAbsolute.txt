@@ -1,0 +1,10 @@
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.Tests.dll
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.Tests.pdb
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.exe
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.pdb
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\bin\Debug\ConsoleApp1.exe.config
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csprojResolveAssemblyReference.cache
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.csproj.CoreCompileInputs.cache
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.dll
+D:\Учеба\РПС\ConsoleApp1\ConsoleApp1.Tests\obj\Debug\ConsoleApp1.Tests.pdb
