@@ -12,8 +12,8 @@ Solutions and projects in Visual Studio on C#
  </b></p>
  
  <ul><b>Проекты, составляющие решение</b>
- <li> <a href="https://github.com/mikenmsl/c-sharp/tree/master/Encryption/ConsoleApp2" >ConsoleApp1 </a> -	Основная программа</li>
-        <li> <a href="https://github.com/mikenmsl/c-sharp/tree/master/Encryption/ConsoleApp2.Tests" >ConsoleApp1.Tests</a> -	Модельные тесты </li>
+ <li> <a href="https://github.com/mikenmsl/c-sharp/tree/master/Encryption/ConsoleApp2" >ConsoleApp2 </a> -	Основная программа</li>
+        <li> <a href="https://github.com/mikenmsl/c-sharp/tree/master/Encryption/ConsoleApp2.Tests" >ConsoleApp2.Tests</a> -	Модельные тесты </li>
     </ul>
 
 <ul><b>Пользовательские типы:</b>
